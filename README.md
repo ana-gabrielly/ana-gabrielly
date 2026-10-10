@@ -1,4 +1,4 @@
-# Olá! Eu sou a ana-gabrielly 👋
+# Olá! Eu sou a Ana Gabrielly 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
